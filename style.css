@@ -1,0 +1,40 @@
+
+
+
+
+h2 {
+  display: none;
+  float: inherit;
+  text-align: left;
+
+
+
+}
+
+#click {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  padding: 14px 40px;
+}
+
+div {
+	width: 300px;
+	height: 300px;
+  font-family: sans-serif;
+
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
+	margin: auto;
+}
+
+
+body {
+  background-color: #F7F7F7;
+  opacity: 1;
+}
